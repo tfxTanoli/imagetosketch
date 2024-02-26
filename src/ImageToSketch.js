@@ -26,7 +26,6 @@ function ImageToSketch() {
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
       <div className="img-container" style={{ position: "relative" }}>
         <div className="img-box" style={imgBoxStyle}>
-          <img src="" alt="Placeholder" />
         </div>
       </div>
       <div style={{ display: "flex", marginTop: "10px" }}>
